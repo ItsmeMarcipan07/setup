@@ -21,15 +21,25 @@ Steps to run program:
   4. Double click WEATHER-PLC.exe file
 
 PyModbus documentation -> https://pymodbus.readthedocs.io/en/latest/index.html
+
 Pathlib documentation -> https://docs.python.org/3/library/pathlib.html
+
 Sys documentation -> https://docs.python.org/3/library/sys.html
+
 Time documentation -> https://docs.python.org/3/library/time.html
+
 Tkinter documentation -> https://docs.python.org/3/library/tkinter.html
+
 Tkinter messagebox documentation -> https://docs.python.org/3/library/tkinter.messagebox.html
+
 OpenWeatherMap API documentation -> https://openweathermap.org/api
+
 PyOWM documentation -> https://pyowm.readthedocs.io/en/latest/index.html
+
 cx_Freeze documentation -> https://cx-freeze.readthedocs.io/en/stable/index.html
+
 To get API key go to and follow steps -> https://openweathermap.org/appid
+
 Setup file -> https://github.com/ItsmeMarcipan07/setup
 
 
