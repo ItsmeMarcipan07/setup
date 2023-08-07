@@ -14,35 +14,33 @@ How to change settings.txt file information:
 
 
 Download program -> https://drive.google.com/drive/folders/1Rm-uveBnZGt_XHr5w3rjMoSt1Am_bL-o?usp=sharing
+
 Steps to run program:
   1. Unzip build folder
   2. Open build folder
   3. Open exe.win-amd64-3.10 folder
   4. Double click WEATHER-PLC.exe file
 
-PyModbus documentation
-Pathlib documentation
-Sys documentation
-Time documentation
-Tkinter documentation
-Tkinter messagebox documentation
-OpenWeatherMap API documentation
-PyOWM documentation
-cx_Freeze documentation
-To get API key go to and follow steps
-Setup file
+PyModbus documentation -> https://pymodbus.readthedocs.io/en/latest/index.html
+Pathlib documentation -> https://docs.python.org/3/library/pathlib.html
+Sys documentation -> https://docs.python.org/3/library/sys.html
+Time documentation -> https://docs.python.org/3/library/time.html
+Tkinter documentation -> https://docs.python.org/3/library/tkinter.html
+Tkinter messagebox documentation -> https://docs.python.org/3/library/tkinter.messagebox.html
+OpenWeatherMap API documentation -> https://openweathermap.org/api
+PyOWM documentation -> https://pyowm.readthedocs.io/en/latest/index.html
+cx_Freeze documentation -> https://cx-freeze.readthedocs.io/en/stable/index.html
+To get API key go to and follow steps -> https://openweathermap.org/appid
+Setup file -> https://github.com/ItsmeMarcipan07/setup
 
 
-->  Sunrise Hour
-->  Sunrise Minutes
-->  Sunset Hour
-->  Sunset Minutes
-->  Current temperature
-->  Localtime  Hour
-->  Localtime Minutes
-
+%MW0 ->  Sunrise Hour
+%MW1 ->  Sunrise Minutes
+%MW2 ->  Sunset Hour
+%MW3 ->  Sunset Minutes
+%MW4 ->  Current temperature
+%MW5 ->  Localtime  Hour
+%MW6 ->  Localtime Minutes
 
 
 For help: panteleevmartin85@gmail.com
-
-
