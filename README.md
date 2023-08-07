@@ -45,6 +45,7 @@ Setup file -> https://github.com/ItsmeMarcipan07/setup
 
 %MW0 ->  Sunrise Hour
 
+
 %MW1 ->  Sunrise Minutes
 
 %MW2 ->  Sunset Hour
